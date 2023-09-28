@@ -1,6 +1,8 @@
 This project is an AI chatbot that can run commands like ChatGPT and Bard. It is built using the OpenAI API, which provides access to a variety of powerful AI models, including GPT-3.
 
-To use the chatbot, simply type in a command and it will execute it. For example, you can type in "Write a poem about a cat" and the chatbot will generate a poem about a cat. You can also type in "Translate this sentence into French" and the chatbot will translate the sentence into French.
+To use the chatbot, simply type in a command and it will execute it.
+For example, you can type in "Write a poem about a cat" and the chatbot will generate a poem about a cat. 
+You can also type in "Translate this sentence into French" and the chatbot will translate the sentence into French.
 
 The chatbot is still under development, but it is already able to run a wide variety of commands. Here are a few examples:
 
