@@ -12,9 +12,12 @@ Translate a sentence
 Answer a question
 Generate code
 Debug code
+
 To try out the chatbot, simply clone this repository and run the following command:
 
 python chatbot.py
+
+
 The chatbot will start listening for commands. You can then type in a command and it will execute it.
 
 Here are some additional notes about the chatbot:
